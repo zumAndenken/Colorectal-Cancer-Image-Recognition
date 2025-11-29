@@ -56,5 +56,16 @@ Each dataset has its own dedicated classification script that leverages local LL
 │   ├── CRC100K/        # Colorectal cancer histopathology images
 │   ├── GIPD/           # Satellite land use images
 │   └── MHIST/          # Colon polyp histopathology images
-└── README.md           # This file
+└── README.md           # Project description
 ```
+## 📜 License
+
+The project is open-sourced under the Apache 2.0 License. For details, please see the LICENSE file.
+---
+
+## 📬 Contact
+
+If you have any questions or collaboration intentions, please contact us:
+
+- 📧 Email: sunlianshan@sust.edu.cn(Lianshan Sun);1241917171@qq.com (Diandong Liu)
+---
