@@ -1,4 +1,4 @@
-# Large Language Models for Image Classification
+# Colorectal-Cancer-Image-Recognition
 
 **🔬 An Open-Source Project for Evaluating LLMs in Multi-Domain Image Classification**
 
