@@ -67,5 +67,5 @@ The project is open-sourced under the Apache 2.0 License. For details, please se
 
 If you have any questions or collaboration intentions, please contact us:
 
-- 📧 Email: sunlianshan@sust.edu.cn(Lianshan Sun);1241917171@qq.com (Diandong Liu)
+- 📧 Email: 1241917171@qq.com (Diandong Liu);2496691197@qq.com (Yan Liu)
 ---
